@@ -4,7 +4,7 @@
 
 Olá! Seja bem vindo(a) ao teste para a vaga de **Frontend Developer** para o time de **Web** da Bold.
 
-Preparamos um teste que abordará seus conhecimentos em **HTML**, **CSS** e **Javascript**. Você será encaixado na vaga de acordo com seu resultado.
+Preparamos um teste que abordará seus conhecimentos em **HTML**, **CSS** e **Javascript**. Você será encaixad(a) na vaga de acordo com seu resultado.
 
 ---
 
