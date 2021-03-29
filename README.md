@@ -1,5 +1,6 @@
 # Desafio | Frontend Developer
 
+> **ATENÇÃO:** Não envie pull requests para este repositório. **=]**
 
 Olá! Seja bem vindo(a) ao teste para a vaga de **Frontend Developer** para o time de **Web** da Bold.
 
