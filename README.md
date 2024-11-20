@@ -14,7 +14,7 @@ O desafio consiste no desenvolvimento do *layout* de uma *landing page* com uma 
 
 **Link do layout**: https://xd.adobe.com/spec/4025e242-a495-4594-71d2-5fd89d774b57-3614
 
-**Endpoint da API**: https://frontend-intern-challenge-api.iurykrieger.now.sh/products?page=1
+**Endpoint da API**: https://desafio-api.bold.workers.dev/products?page=1
 
 ### Layout
 
@@ -24,7 +24,7 @@ Você terá que implementar o *layout* de acordo com esse **[mock](https://xd.ad
 
 ### Comportamento:
 
-Para preencher a página com as informações dos produtos, você terá que consultar esta **[API](https://frontend-intern-challenge-api.iurykrieger.now.sh/products?page=1)** de forma paginada, sendo que cada página consultada retornará as informações de **8 produtos** e um **link para a próxima página**.
+Para preencher a página com as informações dos produtos, você terá que consultar esta **[API](https://desafio-api.bold.workers.dev/products?page=1)** de forma paginada, sendo que cada página consultada retornará as informações de **8 produtos** e um **link para a próxima página**.
 
 Assim que obter os dados, você deverá implementar os seguintes pontos:
 
